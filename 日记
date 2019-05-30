@@ -5,3 +5,9 @@
 2019.5.29
 五年春哥走了，生活艰难，抓紧时间提升自己。争取去大公司。下午把侧
 边栏排序做完。
+
+2019.5.30
+加油，争取进入更大的平台。通过查看ArrayList的源码，知道了其contains(Object o)
+方法其实调用的是参数Object o的o.equals(elementData[i])方法。所以ArrayList
+判断自己是否包含某个对象时，实质是看当前对象是否和ArrayList里面已经有的对象是否
+equals()。周六要自己租房子。
